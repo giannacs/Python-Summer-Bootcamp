@@ -1,2 +1,2 @@
 # Python-Summer-Bootcamp
-A place where we keep all files for the bootcamp
+10-person python class I taught in the summer of 2021
